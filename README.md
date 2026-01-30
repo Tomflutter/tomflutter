@@ -7,7 +7,10 @@
 </h4> 
 
 ## 👨‍💻 Languages and Tools:
-![itsmeshibintmz - Overview](https://github.com/user-attachments/assets/f58660e2-92f8-4722-985d-ccd31247f26e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f58660e2-92f8-4722-985d-ccd31247f26e" alt="Languages and Tools">
+</p>
+
 
 
 
